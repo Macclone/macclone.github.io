@@ -1,0 +1,26 @@
+{
+    "name": "Macclone",
+    "identifier": "com.macclone.altstore",
+    "sourceURL": "https:\/\/macclone.github.io\/apps.json",
+    "apps": [
+        {
+            "name": "Bloons TD 6",
+            "subtitle": "Mega Popular Tower Defense",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "developerName": "Ninja Kiwi",
+            "version": "19.0",
+            "versionDate": "2020-07-04T18:13:02+00:00",
+            "versionDescription": "The Adventure Begins!\n- All new Odyssey Mode links maps together in epic challenges with big Trophy rewards\n- Trophy Store! Use your Trophies from Odysseys and Races to get awesomer cosmetics for Monkeys, Bloons, Co-op, and more!\n- The intoxicatingly fun new beginner map Lotus Island\n- Tentacular goodness with the new Striker skin - Octojones\n- Lots of bug fixes and balance changes",
+            "downloadURL": "https:\/\/cdn.app-valley.vip\/companion\/1539.com.lootvalley.loot.ipa?1593886382",
+            "localizedDescription": "FREE money. By simply downloading apps.",
+            "iconURL": "https:\/\/img.app-valley.vip\/icon\/1555.png",
+            "tintColor": "10b6ff",
+            "size": 50187194,
+            "screenshotURLs": [
+                "https:\/\/img.app-valley.vip\/screenshot\/1555.png"
+            ]
+        }
+    ],
+    "userInfo": {}
+    }
+}
