@@ -1,36 +1,38 @@
 {
-    "name": "Macclone",
-    "identifier": "com.macclone.altstore",
-    "sourceURL": "https:\/\/macclone.github.io\/apps.json",
+    "name": "Channels",
+    "identifier": "com.afsimsir.source",
     "apps": [
         {
-            "name": "Bloons TD 6",
-            "subtitle": "Mega Popular Tower Defense",
-            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
-            "developerName": "Ninja Kiwi",
-            "version": "19.0",
-            "versionDate": "2020-07-04T18:13:02+00:00",
-            "versionDescription": "The Adventure Begins!\n- All new Odyssey Mode links maps together in epic challenges with big Trophy rewards\n- Trophy Store! Use your Trophies from Odysseys and Races to get awesomer cosmetics for Monkeys, Bloons, Co-op, and more!\n- The intoxicatingly fun new beginner map Lotus Island\n- Tentacular goodness with the new Striker skin - Octojones\n- Lots of bug fixes and balance changes",
-            "downloadURL": "http:\/\/down11.dailyuploads.net\/d\/yecoxdmtoghlriincrboaeyga7e5plap5kicsdi5auzbsmq5dwta3krc\/Bloons TD 6 (v19.0 v2867 unk PI iPhone5S Univ 64bit os110 ok13)-user_hidden.bfi.ipa",
-            "localizedDescription": "FREE money. By simply downloading apps.",
-            "iconURL": "https:\/\/img.app-valley.vip\/icon\/1555.png",
-            "tintColor": "10b6ff",
-            "size": 50187194,
+            "name": "Channels",
+            "bundleIdentifier": "com.channelsapp.channels",
+            "developerName": "@afsimsir",
+            "subtitle": "Watch live TV & events for free with Channels",
+            "version": "1.8.0",
+            "versionDate": "2020-03-24T00:00:00-00:00",
+            "versionDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
+            "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels_beta.ipa?alt=media&token=b73a06cb-5aa9-41da-8abf-f200cfaafd99",
+            "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
+            "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
+            "tintColor": "0093E9",
+            "size": 22000000,
             "screenshotURLs": [
-                "https:\/\/img.app-valley.vip\/screenshot\/1555.png"
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
             ]
         }
     ],
     "news": [
         {
-            "title": "Welcome to Appvalley Companion (beta)!",
-            "identifier": "appvalley-welcome",
-            "caption": "Explore the new way to install apps sans-revoke.",
-            "tintColor": "10b6ff",
-            "url": "https:\/\/twitter.com\/app_valley_vip",
-            "imageURL": "https:\/\/i.imgur.com\/xfHvUPB.png",
-            "date": "2020-03-28",
-            "notify": false
+            "title": "Channels now available on AltStore!",
+            "identifier": "channels-x-altstore",
+            "caption": "Live TV you're used to, better.",
+            "tintColor": "0093E9",
+            "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
+            "appID": "com.channelsapp.channels",
+            "date": "2020-03-25",
+            "notify": true
         }
     ],
     "userInfo": {}
