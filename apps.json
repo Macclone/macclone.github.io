@@ -21,5 +21,17 @@
             ]
         }
     ],
+    "news": [
+        {
+            "title": "Welcome to Appvalley Companion (beta)!",
+            "identifier": "appvalley-welcome",
+            "caption": "Explore the new way to install apps sans-revoke.",
+            "tintColor": "10b6ff",
+            "url": "https:\/\/twitter.com\/app_valley_vip",
+            "imageURL": "https:\/\/i.imgur.com\/xfHvUPB.png",
+            "date": "2020-03-28",
+            "notify": false
+        }
+    ],
     "userInfo": {}
 }
