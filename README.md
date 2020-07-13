@@ -1,2 +1,3 @@
-"# macclone.github.io" 
-"# macclone.github.io" 
+---
+permalink: /apps.json
+---
